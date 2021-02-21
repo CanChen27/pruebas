@@ -1,4 +1,27 @@
 # pruebas
+
+Ju3go oficial de ffvii versión menosAlpha
+
+Prólogo
+
+Cuando la guerra de las bestias provoque el fin del mundo, la diosa descenderá del cielo.
+
+Con sus alas de luz y oscuridad extendidas, nos guiará hacia la dicha y su don será eterno.
+
+Canto I
+
+El misterio infinito. Buscaron los tres hombres el don de la diosa. Mas sus destinos la guerra separó.
+
+Uno fue héroe, otro vagó por la tierra... El último, prisionero cayó.
+
+Pero a los tres unía su solemne juramento: buscar la respuesta juntos, una vez más.
+
+
+
+
+
+
+
 Primeras pruebas de C++ con Visual Studio 2019
 
 
