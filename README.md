@@ -7,11 +7,6 @@
 3	Oliver	Ava
 4	William	Sophia
 5	Elijah	Isabella
-6	James	Charlotte
-7	Benjamin	Amelia
-8	Lucas	Mia
-9	Mason	Harper
-10	Ethan	Evelyn
 ##
 --
 
