@@ -1,12 +1,20 @@
 # pruebas
 
-Ju3go oficial de ffvii versión menosAlpha
+??
+##
+##
+##
+--
+1 sun 
+2 shock
+
+Ju3go oficial de ffvii versión menosAlpha 220221 
 
 
 Primeras pruebas de C++ con Visual Studio 2019
 
 
-Hoy es domingo
+Hoy es Lunes joder
 
 Prologue 
 
