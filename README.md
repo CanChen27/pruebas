@@ -2,25 +2,6 @@
 
 Ju3go oficial de ffvii versión menosAlpha
 
-Prólogo
-
-Cuando la guerra de las bestias provoque el fin del mundo, la diosa descenderá del cielo.
-
-Con sus alas de luz y oscuridad extendidas, nos guiará hacia la dicha y su don será eterno.
-
-Canto I
-
-El misterio infinito. Buscaron los tres hombres el don de la diosa. Mas sus destinos la guerra separó.
-
-Uno fue héroe, otro vagó por la tierra... El último, prisionero cayó.
-
-Pero a los tres unía su solemne juramento: buscar la respuesta juntos, una vez más.
-
-
-
-
-
-
 
 Primeras pruebas de C++ con Visual Studio 2019
 
@@ -37,3 +18,17 @@ Infinite in mystery is the gift of the goddess We seek it thus, and take to the 
 Act II
 There is no hate, only joy For you are beloved by the goddess Hero of the dawn, Healer of worlds Dreams of the morrow hath the shattered soul Pride is lost Wings stripped away, the end is nigh.
 
+
+Prólogo
+
+Cuando la guerra de las bestias provoque el fin del mundo, la diosa descenderá del cielo.
+
+Con sus alas de luz y oscuridad extendidas, nos guiará hacia la dicha y su don será eterno.
+
+Canto I
+
+El misterio infinito. Buscaron los tres hombres el don de la diosa. Mas sus destinos la guerra separó.
+
+Uno fue héroe, otro vagó por la tierra... El último, prisionero cayó.
+
+Pero a los tres unía su solemne juramento: buscar la respuesta juntos, una vez más.
